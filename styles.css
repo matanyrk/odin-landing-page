@@ -10,6 +10,11 @@
     color: #1f2937;
 }
 
+.headers {
+    display: flex;
+    flex-flow: row;
+}
+
 .flex-container{
 display: flex;
 height: 40px;
